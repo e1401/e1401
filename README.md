@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm passionate about creating intuitive user interfaces that make the web a better place. With a keen eye for design and a love for clean code, I bridge the gap between concept and implementation.
+# 💫 About:
+I'm passionate about creating intuitive user interfaces that make the web a better place. With a keen eye for design and a love for clean code, I try to make things work (and tests pass).
 
 
 ## 🌐 Socials:
